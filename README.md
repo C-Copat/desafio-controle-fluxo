@@ -1,9 +1,9 @@
-# DIO - Trilha Java Básico
+# Controle de Fluxo
 Este é um pequeno desafio realizado no curso de Java Básico para a plataforma DIO durante o bootcamp de Java Backend Santander 2023
 
 Os arquivos deste projeto representam a solução do desafio abaixo.
 
-## Controle de Fluxo - Desafio
+## Descrição do Desafio
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Controle de Fluxo codificando o seguinte cenário.
 
